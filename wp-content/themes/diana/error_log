@@ -1,0 +1,1 @@
+[15-Sep-2015 07:53:29 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/jcastcom/public_html/sites/jcast/wp-content/themes/diana/comments.php on line 16

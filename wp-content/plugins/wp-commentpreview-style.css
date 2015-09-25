@@ -1,0 +1,48 @@
+/*
+please see wp-commentpreview.php for more information
+*/
+
+#quicktags {
+	text-align: right;
+	margin: 0px 0px 0px 0px;
+}
+
+#quicktags input {
+	border: 1px solid #DDDDDD;
+	background-color: #EEEEEE;
+	width: auto !important;
+	padding: 0px 2px;
+	margin-left: 2px;
+}
+
+#quicktags input:hover {
+	background-color: #CCCCCC;
+}
+
+#quicktags input:active {
+	background-color: #999999;
+}
+
+#usermessage {
+	width: 100%;
+	color: #CC0000;
+	margin: 10px 0px;
+}
+
+.errorfield {
+	border: 1px solid #FF0000 !important;
+	padding: 1px;
+}
+
+#submitbutton {
+	float: right;
+}
+
+#previewbutton {
+	visibility:  hidden;
+	float: left;
+}
+
+.visible {
+	visibility: visible !important;
+}

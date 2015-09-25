@@ -1,0 +1,4 @@
+[23-Aug-2015 09:44:30 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/podpress.php on line 81
+[24-Aug-2015 13:15:55 UTC] PHP Fatal error:  Class 'podPress_class' not found in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/podpress_admin_player_class.php on line 23
+[24-Aug-2015 19:26:19 UTC] PHP Fatal error:  Class 'podPress_class' not found in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/podpress_admin_general_class.php on line 23
+[24-Aug-2015 21:29:06 UTC] PHP Fatal error:  Class 'podPress_class' not found in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/podpress_admin_podango_class.php on line 23

@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MailOnUpdate-ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-22 07:45+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Flector <rlector@gmail.com>\n"
+"Language-Team: WordpressPlugins.ru\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mail-on-update.php:111
+msgid ""
+"Your WordPress is too old. Mail On Update requires at least WordPress 3.0!"
+msgstr "Плагин \"Mail On Update\" требует WordPress версии не младше 3.0!"
+
+#: mail-on-update.php:148
+#, php-format
+msgid "A new version of %1$s is available."
+msgstr "Доступна новая версия плагина %1$s."
+
+#: mail-on-update.php:150
+#, php-format
+msgid "- Installed: %1$s, Current: %2$s"
+msgstr "- установленная версия: %1$s, текущая версия: %2$s"
+
+#: mail-on-update.php:154
+msgid "active"
+msgstr "активный"
+
+#: mail-on-update.php:154 mail-on-update.php:259
+msgid "inactive"
+msgstr "неактивный"
+
+#: mail-on-update.php:155
+#, php-format
+msgid "A new version (%1$s) of %2$s is available. (%3s)"
+msgstr "Доступна новая версия (%1$s) плагина %2$s. (%3s)"
+
+#: mail-on-update.php:163
+msgid "Update your Plugins at"
+msgstr "Обновите ваши плагины по адресу:"
+
+#: mail-on-update.php:166
+msgid ""
+"There are also updates available for the plugins below. However, these "
+"plugins are of no concern for this notifier and the information is just for "
+"completeness."
+msgstr ""
+"Также доступны обновления для плагинов, указанных ниже (для полноты картины, "
+"так как они не являются предметом данного уведомления)."
+
+#: mail-on-update.php:176
+#, php-format
+msgid "[%s] Plugin Update Notification"
+msgstr "[%s] Уведомление об обновлении плагинов WordPress"
+
+#: mail-on-update.php:191
+msgid "Security-Check failed."
+msgstr "Проверка безопасности провалена."
+
+#: mail-on-update.php:272
+msgid "Sorry, but you have no permissions to change settings."
+msgstr "Извините, но у вас нет разрешения на изменение настроек."
+
+#: mail-on-update.php:309
+msgid "Mail On Update settings succsesfully saved."
+msgstr "Настройки Mail On Update успешно записаны."
+
+#: mail-on-update.php:351
+msgid "Mail On Update Settings"
+msgstr "Mail On Update Настройки"
+
+#: mail-on-update.php:354
+msgid "Notification settings"
+msgstr "Настройки уведомлений"
+
+#: mail-on-update.php:359
+msgid "Selected recipients"
+msgstr "Выбранные получатели"
+
+#: mail-on-update.php:372
+msgid "Remove"
+msgstr "Удалить"
+
+#: mail-on-update.php:376
+msgid "Available recipients"
+msgstr "Доступные получатели"
+
+#: mail-on-update.php:389
+msgid "Add"
+msgstr "Добавить"
+
+#: mail-on-update.php:392
+msgid ""
+"You can select multiple administrative users as a recipient. If no recipient "
+"is selected, the notification will be send to:"
+msgstr ""
+"Вы можете выбрать несколько администраторов в качестве получателей писем-"
+"уведомлений. Если получатель не выбран, то уведомление будет отослано на "
+"административный контакт по умолчанию:"
+
+#: mail-on-update.php:396
+msgid "Send only one notification per update"
+msgstr ""
+
+#: mail-on-update.php:400 mail-on-update.php:431
+msgid "Save"
+msgstr "Сохранить"
+
+#: mail-on-update.php:407
+msgid "Filters"
+msgstr "Фильтры"
+
+#: mail-on-update.php:414
+msgid "* A plugin is matched if the filter is a substring"
+msgstr ""
+"* Плагин выбран, если в его названии есть слова из фильтра (фильтр \"WP-\" "
+"выберет все плагины, в названии которых есть \"WP-\")"
+
+#: mail-on-update.php:415
+msgid "* A filter has to appear on a single line"
+msgstr "* Каждый фильтр должен быть на новой строке"
+
+#: mail-on-update.php:416
+msgid "* A filter is not case sensetive"
+msgstr "* Фильтры нечувствительны к регистру"
+
+#: mail-on-update.php:417
+msgid "* A filter is considered as a string and no regexp"
+msgstr "* Фильтры считаются строкой, а не регулярным выражением"
+
+#: mail-on-update.php:418
+msgid "* A filter with \"-\" at the end is not considered"
+msgstr "* Фильтры с \"-\" в конце не будут использоваться"
+
+#: mail-on-update.php:424
+msgid "Don't filter plugins"
+msgstr "Не использовать фильтры"
+
+#: mail-on-update.php:425
+msgid "Blacklist filter (exclude plugins)"
+msgstr "Черный cписок (исключить указанные плагины)"
+
+#: mail-on-update.php:426
+msgid "Whitelist filter (include plugins)"
+msgstr "Белый список (включить указанные плагины)"
+
+#: mail-on-update.php:427
+msgid "Don't validate inactive plugins"
+msgstr "Не проверять неактивные плагины"
+
+#: mail-on-update.php:438
+msgid "Plugins to validate"
+msgstr "Плагины для проверки"
+
+#: mail-on-update.php:446
+msgid "Plugin will be validated"
+msgstr "Плагин будет проверяться"
+
+#: mail-on-update.php:447
+msgid "Plugin will not be validated"
+msgstr "Плагин не будет проверяться"
+
+#~ msgid "Send only one notification per Update"
+#~ msgstr "Отсылать только одно уведомление (не повторять email)"
+
+#~ msgid "List of alternative recipients"
+#~ msgstr "Список альтернативных получателей"
+
+#~ msgid ""
+#~ "Since no alternative recipients are specified, the default address %s is "
+#~ "assumed. Provide a list of alternative recipients to override."
+#~ msgstr ""
+#~ "Уведомления будут доставляться на имейл по умолчанию (%s) до тех пор, "
+#~ "пока вы не укажите альтернативные имейл адреса."
+
+#~ msgid "* Each E-Mail-Address has to appear on a single line"
+#~ msgstr "* Каждый имейл должен быть на новой строке"
+
+#~ msgid "* Invalid E-Mail-Addresses will be rejected"
+#~ msgstr "* Неправильные имейлы будут отклонены"
+
+#~ msgid "* An E-Mail-Address with \"-\" at the end is not considered"
+#~ msgstr "* Имейлы с \"-\" в конце не будут использоваться"
+
+#~ msgid "* Clear this field to set the default E-Mail-Address"
+#~ msgstr "* Очистите список, чтобы использовать имейл по умолчанию"
+
+#~ msgid "Inactive plugin"
+#~ msgstr "Неактивный плагин"
+
+#~ msgid "New updates at %1$s"
+#~ msgstr "Neue Updates auf"
+
+#~ msgid "Required functions for Mail On Update could not be loaded."
+#~ msgstr ""
+#~ "Benötigte Funktionen für Mail On Update konnten nicht geladen werden."
+
+#~ msgid "The E-mail Address is not valid."
+#~ msgstr "Die E-Mail Adresse ist nicht gültig."
+
+#~ msgid "Saved changes successfully."
+#~ msgstr "Änderungen erfolgreich gespeichert."
+
+#~ msgid "E-Mail Configuration"
+#~ msgstr "E-Mail Einstellungen"
+
+#~ msgid "Recipient"
+#~ msgstr "Empfänger"
+
+#~ msgid "Sorry, but it seems you are a Spambot."
+#~ msgstr "Sorry, aber es scheint so, als ob Du ein Spambot bist."
+
+#~ msgid "YAWASP settings were saved successfully."
+#~ msgstr "Der YAWASP Einstellungen wurden erfolgreich gespeichert."
+
+#~ msgid "Statistic"
+#~ msgstr "Statistik"
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Detailed"
+#~ msgstr "Detailliert"
+
+#~ msgid "No detailed statistic so far."
+#~ msgstr "Bisher keine detaillierte Statistik."
+
+#~ msgid "%s Spambot send the default author and/or comment field."
+#~ msgid_plural "%s Spambots send the default author and/or comment field."
+#~ msgstr[0] "%s Spambot sendete das Standard-Autor- und/oder Kommentarfeld."
+#~ msgstr[1] "%s Spambots sendeten das Standard-Autor- und/oder Kommentarfeld."
+
+#~ msgid "%s Spambot did not send the hidden field."
+#~ msgid_plural "%s Spambots did not send the hidden field."
+#~ msgstr[0] "%s Spambot sendete kein verstecktes Feld."
+#~ msgstr[1] "%s Spambots sendeten kein verstecktes Feld."
+
+#~ msgid "%s Spambot send the hidden field, but filled it out."
+#~ msgid_plural "%s Spambots send the hidden field, but filled it out."
+#~ msgstr[0] "%s Spambot sendete das versteckte Feld, aber f&uuml;llte es aus."
+#~ msgstr[1] ""
+#~ "%s Spambots sendeten das versteckte Feld, aber f&uuml;llten es aus."
+
+#~ msgid "%s Spambot was blocked because of a saved IP."
+#~ msgid_plural "%s Spambots was blocked because of a saved IP."
+#~ msgstr[0] ""
+#~ "%s Spambot wurde aufgrund einer gespeicherten IP-Adresse blockiert."
+#~ msgstr[1] ""
+#~ "%s Spambots wurden aufgrund einer gespeicherten IP-Adresse blockiert."
+
+#~ msgid "Are you sure you want to reset the counter?"
+#~ msgstr "Bist du sicher, dass du den Zähler zurücksetzen möchtest?"
+
+#~ msgid "Reset Counter"
+#~ msgstr "Zähler zurücksetzen"
+
+#~ msgid "IP Lock"
+#~ msgstr "IP Sperre"
+
+#~ msgid "Save IP Adress"
+#~ msgstr "IP-Adresse speichern"
+
+#~ msgid "Yes"
+#~ msgstr "Ja"
+
+#~ msgid "No"
+#~ msgstr "Nein"
+
+#~ msgid ""
+#~ "If a Spambot is catched, the combination of ip and user-agent will be "
+#~ "saved and blocked for 24 hours."
+#~ msgstr ""
+#~ "Wird ein Spambot erkannt, wird die Kombination aus IP-Adresse und Browser "
+#~ "gespeichert und für 24 Stunden blockiert."
+
+#~ msgid "Automatic template change"
+#~ msgstr "Automatische Änderung des Templates"
+
+#~ msgid "Changes in comments.php"
+#~ msgstr "Änderungen in comments.php"
+
+#~ msgid "Change template"
+#~ msgstr "Änderungen durchführen"
+
+#~ msgid "Undo changes"
+#~ msgstr "Änderungen rückgängig machen"
+
+#~ msgid ""
+#~ "You will find a Backup (comments.php.old) of your comments.php in your "
+#~ "template folder."
+#~ msgstr ""
+#~ "Ein Backup (comments.php.old) deiner comments.php findest du in deinen "
+#~ "Template Order."
+
+#~ msgid "Manual template change"
+#~ msgstr "Manuelle Änderung des Templates"
+
+#~ msgid ""
+#~ "Manuel instructions for changeing your comments.php are available in "
+#~ "english and german at the following pages:"
+#~ msgstr ""
+#~ "Anleitungen für das Anpasssen der comments.php stehen in Englisch und "
+#~ "Deutsch auf den folgenden Seiten zur Verfügung:"
+
+#~ msgid "Instructions in German"
+#~ msgstr "Anleitung in Deutsch"
+
+#~ msgid "Instructions in English"
+#~ msgstr "Anleitung in Englisch"
+
+#~ msgid "Yawasp Statistic"
+#~ msgstr "Yawasp Statistik"
+
+#~ msgid " has blocked %s birdbrained Spambot since its last activation."
+#~ msgid_plural ""
+#~ " has blocked %s birdbrained Spambots since its last activation."
+#~ msgstr[0] ""
+#~ " hat seit seiner letzten Aktivierung %s dummen Spambot blockiert."
+#~ msgstr[1] ""
+#~ " hat seit seiner letzten Aktivierung %s dumme Spambots blockiert."
+
+#~ msgid " Click %s for a detailed statistic."
+#~ msgstr " Klick %s für eine detaillierte Statistik."
+
+#~ msgid "here"
+#~ msgstr "hier"
+
+#~ msgid ""
+#~ "Your comments.php was changed successfully. YAWASP is up and running!"
+#~ msgstr ""
+#~ "Deine comments.php wurde erfolgreich angepasst. YAWASP ist betriebsbereit!"
+
+#~ msgid "Failed to change your comments.php. Please change manuelly"
+#~ msgstr ""
+#~ "Beim Ändern der comments.php ist ein Fehler aufgetreten. Bitte führe die "
+#~ "Änderungen manuel durch."
+
+#~ msgid "Changes in comments.php were successfully removed."
+#~ msgstr "Die Änderungen in der comments.php wurden erfolgreich entfernt."
+
+#~ msgid "Failed to remove changes in comments.php. Please remove manuelly"
+#~ msgstr ""
+#~ "Beim Entfernen der Änderungen in der comments.php ist ein Fehler "
+#~ "aufgetreten. Bitte entferne die Änderungen manuell."
+
+#~ msgid ""
+#~ "If you still experience problems please visit the comments section for "
+#~ "futher help."
+#~ msgstr "Sollten dennoch Probleme auftreten, stehen für weitere"
+
+#~ msgid "Error in file: "
+#~ msgstr "Fehler in:"
+
+#~ msgid "Modify Template"
+#~ msgstr "Änderungen im Template"
+
+#~ msgid "Reset Statistik"
+#~ msgstr "Statistik zurücksetzen"

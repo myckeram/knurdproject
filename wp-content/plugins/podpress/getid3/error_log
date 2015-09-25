@@ -1,0 +1,32 @@
+[30-Jul-2015 04:52:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'getid3.php MUST be included before calling getid3_writetags' in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php on line 23
+[07-Aug-2015 11:43:54 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'getid3.php MUST be included before calling getid3_writetags' in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php on line 23
+[13-Aug-2015 03:11:17 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'getid3.php MUST be included before calling getid3_writetags' in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php on line 23
+[26-Aug-2015 20:25:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'getid3.php MUST be included before calling getid3_writetags' in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php on line 23
+[29-Aug-2015 10:01:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'getid3.php MUST be included before calling getid3_writetags' in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php on line 23
+[10-Sep-2015 06:01:42 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'getid3.php MUST be included before calling getid3_writetags' in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php on line 23
+[17-Sep-2015 18:49:40 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'getid3.php MUST be included before calling getid3_writetags' in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php on line 23
+[24-Sep-2015 01:49:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'getid3.php MUST be included before calling getid3_writetags' in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/podpress/getid3/write.php on line 23

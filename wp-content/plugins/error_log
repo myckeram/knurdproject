@@ -1,0 +1,6 @@
+[18-Aug-2015 22:14:11 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/hello.php on line 60
+[29-Aug-2015 08:14:01 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/hello.php on line 60
+[01-Sep-2015 09:49:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/hello.php on line 60
+[03-Sep-2015 15:01:54 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/hello.php on line 60
+[06-Sep-2015 16:21:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/hello.php on line 60
+[20-Sep-2015 09:09:26 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/jcastcom/public_html/sites/jcast/wp-content/plugins/hello.php on line 60
